@@ -9,6 +9,13 @@ Aplikace TankujLevně. vám řekne tu nejlepší cenu pohonných hmot ve vašem 
 U každé čerpací stanice jsou po rozkliknutí vidět ceny všech pohonných hmot, graf vývoje ceny v posledních dnech a mapa, která po kliknutí směřuje na Google Maps.
 ### Mockup
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/mockup.jpg)
+### Barevná paleta
+![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/barevná%20paleta.jpg)
+### Fonty
+![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/fonty.jpg)
+### Logická struktura
+![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/logická%20stránka%20a%20struktura_1.jpg)
+![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/logická%20stránka%20a%20struktura_2.jpg)
 #### Hlavní stránka
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/hlavn%C3%AD%20stránka.jpg)
 #### Čerpací stanice po výběru
@@ -19,10 +26,4 @@ U každé čerpací stanice jsou po rozkliknutí vidět ceny všech pohonných h
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/úprava%20ceny%20paliva.jpg)
 #### Přidání nové čerpací stanice
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/úprava%20ceny%20paliva%20–%201.jpg)
-### Barevná paleta
-![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/barevná%20paleta.jpg)
-### Fonty
-![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/fonty.jpg)
-### Logická struktura
-![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/logická%20stránka%20a%20struktura_1.jpg)
 
