@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248.598" height="96" viewBox="0 0 248.598 96">
+  <defs>
+    <filter id="TankujLevně." x="0.598" y="0" width="248" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-71.402 -3)">
+    <g transform="matrix(1, 0, 0, 1, 71.4, 3)" filter="url(#TankujLevně.)">
+      <text id="TankujLevně.-2" data-name="TankujLevně." transform="translate(30.6 56)" fill="#e7fe7a" font-size="30" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">TankujLevně.</tspan></text>
+    </g>
+    <path id="rect7223-2-4-9" d="M20.39,12.5a1.636,1.636,0,0,0-1.64,1.64V40.377a1.763,1.763,0,0,0,1.64,1.64H35.148a1.763,1.763,0,0,0,1.64-1.64v-8.2h.82a.8.8,0,0,1,.82.82v3.28a2.174,2.174,0,0,0,2.46,2.46,2.174,2.174,0,0,0,2.46-2.46V27.259c0-1.64-3.28-3.28-3.28-4.92V17.42h-1.64l-1.64-1.64V14.14a1.636,1.636,0,0,0-1.64-1.64Zm1.64,3.28H33.509v6.559H22.03ZM36.788,20.7h1.64v2.46c0,1.64,3.28,3.28,3.28,4.92v8.2a.82.82,0,1,1-1.64,0v-4.1a1.763,1.763,0,0,0-1.64-1.64h-1.64Z" transform="translate(52.652 20.741)" fill="#e7fe7a"/>
+  </g>
+</svg>
