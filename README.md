@@ -14,3 +14,5 @@ U každé čerpací stanice jsou po rozkliknutí vidět ceny všech pohonných h
 ### Logická struktura
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/logická%20stránka%20a%20struktura_1.jpg)
 
+![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/logická%20stránka%20a%20struktura_2.jpg)
+
