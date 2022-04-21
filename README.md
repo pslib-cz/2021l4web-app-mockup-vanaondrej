@@ -8,6 +8,7 @@ Tato stránka informuje o aplikaci, která bude výstupem zadání Application M
 Aplikace TankujLevně. vám řekne tu nejlepší cenu pohonných hmot ve vašem okolí. Aplikace bude fungovat na základě aktivních uživatelů, kteří mají samotní možnost měnit ceny pohonných hmot na jednotlivých čerpacích stanicích, či dokonce přidávat nové čerpací stanice.
 U každé čerpací stanice jsou po rozkliknutí vidět ceny všech pohonných hmot, graf vývoje ceny v posledních dnech a mapa, která po kliknutí směřuje na Google Maps.
 ### Mockup
+![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/mockup.jpg)
 #### Hlavní stránka
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/hlavn%C3%AD%20stránka.jpg)
 #### Čerpací stanice po výběru
