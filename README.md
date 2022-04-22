@@ -11,6 +11,11 @@ U každé čerpací stanice jsou po rozkliknutí vidět ceny všech pohonných h
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/mockup.jpg)
 ### Barevná paleta
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/barevná%20paleta.jpg)
+<span style="color:#E7FE7A">#E7FE7A</span>
+<span style="color:#171717">#171717</span>
+<span style="color:#313131">#313131</span>
+<span style="color:white">#FFFFFF</span>
+
 ### Fonty
 ![tankujlevne.](https://github.com/pslib-cz/2021l4web-app-mockup-vanaondrej/blob/main/docs/manual/fonty.jpg)
 ### Logická struktura
